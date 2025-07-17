@@ -1,4 +1,4 @@
-<h1>Repairing Applications</h1>
+<h1>Deploying add-ins in Outlook and Excel</h1>
 
 
 <h2>Description</h2>
