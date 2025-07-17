@@ -12,6 +12,7 @@
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
+- <b>Microsft 365 admin centre</b>
 
 
 <h2>Program walk-through:</h2>
