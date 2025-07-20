@@ -1,8 +1,8 @@
-<h1>Deploying add-ins in Excel and Word</h1>
+<h1>Deploying add-ins into Excel and Word</h1>
 
 
 <h2>Description</h2>
-
+The aim of this lab is to integrate the use of an AI assistant into Excel and Word via CHATGPT.
 
 
 <h2>Utilities Used</h2>
