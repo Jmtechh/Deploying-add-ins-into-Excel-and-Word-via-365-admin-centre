@@ -17,6 +17,8 @@
 
 <h2>Program walk-through:</h2>
 
+Once I was inside the Microsft 365 admin center I went to integrated apps so that I could attatch a CHATGPT assistant inside both Excel and Word.
+
 <img src="https://i.imgur.com/FihQyEK.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/yWZkV2r.png" style="width:80%;" alt="Disk Sanitization Steps"/>
@@ -24,5 +26,7 @@
 <img src="https://i.imgur.com/QDjFYX9.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/88vhxnY.png" style="width:80%;" alt="Disk Sanitization Steps"/>
+
+As you can see on the right hand side their is an add-in application that has been assined to Excel.
 
 <img src="https://i.imgur.com/84KGVlQ.png" style="width:80%;" alt="Disk Sanitization Steps"/>
