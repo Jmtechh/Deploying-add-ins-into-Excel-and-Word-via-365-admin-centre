@@ -1,4 +1,4 @@
-<h1>Deploying add-ins into Excel and Word</h1>
+<h1>Deploying add-ins into Excel and Word via 365 admin centre</h1>
 
 
 <h2>Description</h2>
@@ -17,7 +17,7 @@ The objective of this lab is to integrate an AI assistant, powered by ChatGPT, i
 
 <h2>Program walk-through:</h2>
 
-Once I was inside the Microsft 365 admin center I went to integrated apps so that I could attatch a CHATGPT assistant inside both Excel and Word.
+After accessing the Microsoft 365 Admin Center, I navigated to Integrated Apps to attach a ChatGPT assistant within both Excel and Word.
 
 <img src="https://i.imgur.com/FihQyEK.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
