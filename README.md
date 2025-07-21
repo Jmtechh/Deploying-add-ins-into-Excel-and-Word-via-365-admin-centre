@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The aim of this lab is to integrate the use of an AI assistant into Excel and Word via CHATGPT.
+The objective of this lab is to integrate an AI assistant, powered by ChatGPT, into Excel and Word.
 
 
 <h2>Utilities Used</h2>
